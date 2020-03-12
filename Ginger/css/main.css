@@ -1,0 +1,148 @@
+body {
+    background-color: #3B3B3B;
+}
+
+.navbar-custom {
+    background-color: transparent !important;
+}
+
+.circle1 {
+    position: absolute;
+    left: 924px;
+    top: 0px;
+    z-index: -1;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.large-text {
+    margin-top: 10px;
+    font-size: 50px;
+    color: white;
+    font-weight: bolder;
+    line-height: 70px;
+}
+
+.small-text {
+    margin-top: 30px;
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+
+.medium-text {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    line-height: 30px;
+}
+
+.btn-register {
+    margin-top: 16px;
+    height: 48px;
+    width: 312px;
+    padding-top: 12px;
+    background-color: #FF5A1A;
+    border: none;
+}
+
+.btn-register:hover {
+    margin-top: 16px;
+    height: 48px;
+    width: 312px;
+    padding-top: 12px;
+    background-color: #FF5A1A;
+    border: none;
+}
+
+.partner {}
+
+.jumbotron {
+    background-color: #3B3B3B !important;
+}
+
+.left-details {
+    float: left;
+}
+
+.how_it_works {
+    margin-top: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+.ul li {
+    background: url(../img/bullet_point.svg) no-repeat top left;
+    background-position: 0 5px;
+    line-height: 1.5625;
+    padding: 0 0 4px 30px;
+}
+
+.small-text-hiw {
+    width: 500px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+
+.testimony {
+    margin-top: 150px;
+    z-index: -1;
+}
+
+.circle_testimony {
+    /* margin-top: -450px; */
+    /* margin-right: -400px; */
+    width: 125px;
+    /* height: 125px; */
+    background: transparent;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.container {
+    width: 400px;
+    height: 150px;
+    font-size: 20px;
+    line-height: 34px;
+    color: white;
+    float: right;
+    margin-top: -250px;
+    margin-right: -550px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    display: none;
+}
+
+.footer_btn {
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.footer-details {}
+
+.logo {}
+
+.logo-text {
+    color: white;
+}
+
+.about {}
+
+.legal {}
+
+.heading {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.agent {}
